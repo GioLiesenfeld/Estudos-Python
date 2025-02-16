@@ -1,6 +1,6 @@
 from time import sleep
 for c in range(1,5): #ele não considera o último número#
-    print('Hello, world!')
+    print('Hello, World!')
     sleep(1)
 print('='*20)
 sleep(2)
